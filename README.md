@@ -24,21 +24,21 @@ LiDAR provides detailed elevation and surface models, allowing us to assess chan
 2. Used the historical imagery tool to analyze changes from past decades.
 3. Integrated LiDAR datasets (Digital Surface Models and Digital Terrain Models) into GIS tools to observe:
     - Building height variations
-  - Urban sprawl
-  - Road expansion and infrastructure growth
+    - Urban sprawl
+    - Road expansion and infrastructure growth
 4. Compared historical vs current views to evaluate urban impact.
 5. Noted key pros and cons of urbanization based on geospatial evidence.
 
 # 📊 LiDAR-Based Urbanization Insights
 **✅ Pros:**
-  - 📈 Improved Local Economy – Growth in businesses and real estate.
-  - 🏗️ Rapid Infrastructure Development – Increased construction of roads, housing, and public utilities.
-  - 🚉 Enhanced Transport Connectivity – Better road networks and access to transit hubs.
+    - 📈 Improved Local Economy – Growth in businesses and real estate.
+    - 🏗️ Rapid Infrastructure Development – Increased construction of roads, housing, and public utilities.
+    - 🚉 Enhanced Transport Connectivity – Better road networks and access to transit hubs.
 
 **⚠️ Cons:**
-  - 🚧 Over-Concretization – Loss of green cover and open spaces.
-  - 🧯 Compromised Safety Standards – In high-risk zones, disaster resilience is low.
-  - 🌫️ Environmental Degradation – Decline in air quality, groundwater levels, and increased urban heat islands.
+    - 🚧 Over-Concretization – Loss of green cover and open spaces.
+    - 🧯 Compromised Safety Standards – In high-risk zones, disaster resilience is low.
+    - 🌫️ Environmental Degradation – Decline in air quality, groundwater levels, and increased urban heat islands.
 
 # 🖥️ Screenshot
 -(MCKV Insitue Of Engennering Campus 2011 -> Before Unbanization)
