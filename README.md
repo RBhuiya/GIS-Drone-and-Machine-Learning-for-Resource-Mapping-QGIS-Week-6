@@ -31,14 +31,14 @@ LiDAR provides detailed elevation and surface models, allowing us to assess chan
 
 # 📊 LiDAR-Based Urbanization Insights
 **✅ Pros:**
-    - 📈 Improved Local Economy – Growth in businesses and real estate.
-    - 🏗️ Rapid Infrastructure Development – Increased construction of roads, housing, and public utilities.
-    - 🚉 Enhanced Transport Connectivity – Better road networks and access to transit hubs.
+- 📈 Improved Local Economy – Growth in businesses and real estate.
+- 🏗️ Rapid Infrastructure Development – Increased construction of roads, housing, and public utilities.
+- 🚉 Enhanced Transport Connectivity – Better road networks and access to transit hubs.
 
 **⚠️ Cons:**
-    - 🚧 Over-Concretization – Loss of green cover and open spaces.
-    - 🧯 Compromised Safety Standards – In high-risk zones, disaster resilience is low.
-    - 🌫️ Environmental Degradation – Decline in air quality, groundwater levels, and increased urban heat islands.
+- 🚧 Over-Concretization – Loss of green cover and open spaces.
+- 🧯 Compromised Safety Standards – In high-risk zones, disaster resilience is low.
+- 🌫️ Environmental Degradation – Decline in air quality, groundwater levels, and increased urban heat islands.
 
 # 🖥️ Screenshot
 -(MCKV Insitue Of Engennering Campus 2011 -> Before Unbanization)
