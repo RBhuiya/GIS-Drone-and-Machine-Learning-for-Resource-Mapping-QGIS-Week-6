@@ -19,7 +19,7 @@ LiDAR provides detailed elevation and surface models, allowing us to assess chan
 - Identification of infrastructure growth, environmental decline, and socio-economic change.
 - Insightful conclusions using geo-intelligence techniques.
 
-🛠️ Project Steps
+# 🛠️ Project Steps
 1. Opened Google Earth Pro and navigated to the MCKV campus area.
 2. Used the historical imagery tool to analyze changes from past decades.
 3. Integrated LiDAR datasets (Digital Surface Models and Digital Terrain Models) into GIS tools to observe:
