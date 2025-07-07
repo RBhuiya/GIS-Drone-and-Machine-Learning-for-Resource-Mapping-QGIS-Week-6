@@ -23,7 +23,7 @@ LiDAR provides detailed elevation and surface models, allowing us to assess chan
 1. Opened Google Earth Pro and navigated to the MCKV campus area.
 2. Used the historical imagery tool to analyze changes from past decades.
 3. Integrated LiDAR datasets (Digital Surface Models and Digital Terrain Models) into GIS tools to observe:
-  - Building height variations
+    - Building height variations
   - Urban sprawl
   - Road expansion and infrastructure growth
 4. Compared historical vs current views to evaluate urban impact.
