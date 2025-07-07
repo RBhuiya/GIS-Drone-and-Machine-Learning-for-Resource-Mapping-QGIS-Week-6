@@ -41,10 +41,10 @@ LiDAR provides detailed elevation and surface models, allowing us to assess chan
 - 🌫️ Environmental Degradation – Decline in air quality, groundwater levels, and increased urban heat islands.
 
 # 🖥️ Screenshot
--(MCKV Insitue Of Engennering Campus 2011 -> Before Unbanization)
+-(**MCKV Insitue Of Engennering Campus (2011) ->** _Before Unbanization_)
   -![2011](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-6/blob/9b039baa0f9bbb63ce66309b2b87718aed65889a/Screenshot/2011.png)
 
--(MCKV Insitue Of Engennering Campus 2024 -> After Urbinization)
+-(**MCKV Insitue Of Engennering Campus (2024) ->** _After Urbinization_)
   -![2024](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-6/blob/9b039baa0f9bbb63ce66309b2b87718aed65889a/Screenshot/2024.png)
 
 # 📝 Requirements
